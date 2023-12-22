@@ -2,7 +2,7 @@
 - summary: |
     Отсутсвует функция фильтрации поиска товаров по цвету
   environment: |
-    Google Chrome 120.0.6099.129
+    Google Chrome (120.0.6099.129)
     ОС Windows 22H2 (22621.2715)
   steps-to-reproduce: |
     1. Зайти на главную страницу страницу магазина https://hexlet-products-store.vercel.app/
@@ -15,7 +15,7 @@
 - summary: |
     Отсутсвует функция фильтрации товарова по размеру
   environment: |
-    Google Chrome 120.0.6099.129
+    Google Chrome (120.0.6099.129)
     ОС Windows 22H2 (22621.2715)
   steps-to-reproduce: |
     1. Зайти на главную страницу страницу магазина https://hexlet-products-store.vercel.app/
@@ -28,7 +28,7 @@
 - summary: |
     Отсутсвует функция выбора товара определенного цвета
   environment: |
-    Google Chrome 120.0.6099.129
+    Google Chrome (120.0.6099.129)
     ОС Windows 22H2 (22621.2715)
   steps-to-reproduce: |
     1. Зайти на главную страницу страницу магазина https://hexlet-products-store.vercel.app/
@@ -44,7 +44,7 @@
 - summary: |
     Мобильная версия сайта отображается и функционирует некорректно
   environment: |
-    Google Chrome 120.0.6099.129
+    Google Chrome (120.0.6099.129)
     ОС Windows 22H2 (22621.2715)
   steps-to-reproduce: |
     1. Зайти на главную страницу страницу магазина https://hexlet-products-store.vercel.app/
@@ -64,7 +64,7 @@
 - summary: |
     Функция мультиязычности сайта работает некорректно
   environment: |
-    Google Chrome 120.0.6099.129
+    Google Chrome (120.0.6099.129)
     ОС Windows 22H2 (22621.2715)
   steps-to-reproduce: |
     1. Зайти на главную страницу страницу магазина https://hexlet-products-store.vercel.app/
@@ -78,7 +78,7 @@
 - summary: |
     Функция фильтрации по ценовому диапазону работает некорректно, допуская ввод отрицательных значений
   environment: |
-    Google Chrome 120.0.6099.129
+    Google Chrome (120.0.6099.129)
     ОС Windows 22H2 (22621.2715)
   steps-to-reproduce: |
     1. Зайти на главную страницу страницу магазина https://hexlet-products-store.vercel.app/
@@ -92,7 +92,7 @@
 - summary: |
     Поиск товаров по хештегам не работает
   environment: |
-    Google Chrome 120.0.6099.129
+    Google Chrome (120.0.6099.129)
     ОС Windows 22H2 (22621.2715)
   steps-to-reproduce: |
     1. Ввести в строке поиска товаров "OPPO"
@@ -102,10 +102,11 @@
     Произошел переход по хештегу, сайт отображает товары связанные с хештегом #smartphones
   actual-result: |
     Взаимодействие с хештегом невозможно, сайт не отображает товары связанные с хештегом
+
 - summary: |
     Проверка фильтрации товаров по статусу "в наличии"/"нет в наличии"
   environment: |
-    Google Chrome 120.0.6099.129
+    Google Chrome (120.0.6099.129)
     ОС Windows 22H2 (22621.2715)
   steps-to-reproduce: |
     1. выбрать категорию smartphones
