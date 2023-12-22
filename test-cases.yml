@@ -221,3 +221,16 @@
    - Нажать на кнопку "Продолжить покупки"
   expected-result: |
     Открывается страница сайта с каталогом товаров
+
+    - summary: |
+   
+  requirement: |
+   
+  prerequisites:
+   
+  test-data: |
+    
+  steps:
+  
+  expected-result: |
+    
